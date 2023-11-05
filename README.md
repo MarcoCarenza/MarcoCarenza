@@ -12,7 +12,7 @@ Main Languages
 
 
 ![ Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![ C# ]([https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=c-sharp](https://camo.githubusercontent.com/8b0a7e7038111ad457ea95174b8b3383d4ebdd7c5f0f0fdbb042cdc783521a72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d432b536861727026636f6c6f723d323339313230266c6f676f3d432b5368617270266c6f676f436f6c6f723d464646464646266c6162656c3d))
+![ C# ](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=c-sharp)
 
 Secondary Languages
 
