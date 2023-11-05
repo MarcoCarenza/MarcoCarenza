@@ -55,7 +55,7 @@ Engines
 
 ### CV
 
-[Resume](https://github.com/MarcoCarenza/MarcoCarenza/files/13259964/Final.CSS.Resume.pdf)).
+[My Resume](https://github.com/MarcoCarenza/MarcoCarenza/files/13259964/Final.CSS.Resume.pdf).
 
 
 ### ITCH.IO
