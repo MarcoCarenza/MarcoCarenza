@@ -49,13 +49,13 @@ Engines
 
 ### CURRENT WORK AND FUTURE PROJECTS
 
-- add
-- 🌱 I would like to improve my Pokemon Mystery Dungeon TTRPG system by adding a playable dungeon instance.
-- 🌱 I'd like to take on an electronic project as I've been highly interested by that domain. I'm thinking about making a plant monitoring system.
+- 🆕 I am currently developing and polishing ContraWare, my first game.
+- 🆕 I am developing Dummy Wars, a strategy game inspired by XCOM.
+- 🆕 I would like to improve and finish the Pokémon Mystery Dungeon TTRPG system I am working on.
 
 ### CV
 
-[Resume]().
+[Resume]([Final CSS Resume.pdf](https://github.com/MarcoCarenza/MarcoCarenza/files/13259964/Final.CSS.Resume.pdf)).
 
 
 ### ITCH.IO
