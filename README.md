@@ -1,9 +1,9 @@
 ### ABOUT ME
 
-My name is Marco Carenza and I'm an aspiring game developer.https://emojipedia.org/skull
+My name is Marco Carenza and I'm an aspiring game developer. 
 - ⭐ I'm passionate about video games and Game Design!
 - :video_game: I use Unity and Unreal Engine to make my games, with plans on learning Godot.
-- :desktop: My favorite languages are C# and Java.
+- 🖥️ My favorite languages are C# and Java.
 - :books: I am currently enrolled in an accelerated Master's degree program for Cyber and Information Security at St. John's University in New York. However, I plan on applying to a Game Design Master's course when I am done.
 
 ### SKILLS
