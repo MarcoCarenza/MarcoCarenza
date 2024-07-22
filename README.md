@@ -47,7 +47,7 @@ Tools
 
 ### CURRENT WORK AND FUTURE PROJECTS
 
-- 🆕 I am developing CyberPop: Neom, a CRPG strategy game inspired by XCOM and the cyberpukn genre.
+- 🆕 I am developing CyberPop: Neom, a CRPG strategy game inspired by XCOM and the cyberpunk genre.
 - 🆕 I would like to improve and finish the Pokémon Mystery Dungeon TTRPG system I am working on.
 
 ### CV
