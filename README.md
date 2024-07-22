@@ -55,8 +55,7 @@ Engines
 
 ### CURRENT WORK AND FUTURE PROJECTS
 
-- 🆕 I am currently polishing ContraWare, my first game.
-- 🆕 I am developing Dummy Wars, a strategy game inspired by XCOM.
+- 🆕 I am developing CyberPop: Neom, a CRPG strategy game inspired by XCOM and the cyberpukn genre.
 - 🆕 I would like to improve and finish the Pokémon Mystery Dungeon TTRPG system I am working on.
 
 ### CV
