@@ -4,7 +4,7 @@ My name is Marco Carenza and I'm an aspiring game developer.
 - ⭐ I'm passionate about video games and Game Design!
 - :video_game: I use Unity and Unreal Engine to make my games, with plans on learning Godot.
 - 🖥️ My favorite languages are C# and Java.
-- :books: I completed an accelerated Master's degree program for Cyber and Information Security at St. John's University in New York. And am currently enrolled in an online Game Design Master's course.
+- :books: I completed an accelerated Master's degree program for Cyber and Information Security at St. John's University in New York. And am currently enrolled in a Game Design MFA at the NYU Game Center.
 
 ### SKILLS
 
