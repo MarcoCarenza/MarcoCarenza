@@ -13,7 +13,7 @@ I'm a generalist game developer, studying a Game Design MFA at NYU's game center
 - I designed and developed the game [Tempus Paradox](https://evileyezzzz.itch.io/tempusparadox) for the [St. John's GET September Game Jam 2023](https://itch.io/jam/september-sju-get-2023).
 
 ### CV
-[My Resume]()
+[My Resume](https://github.com/user-attachments/files/29095764/Marco_Carenza_Resume.pdf)
 
 ### ITCH.IO
 [My Itch.io - evileyezzzz](https://evileyezzzz.itch.io/)
