@@ -1,6 +1,6 @@
 ### ABOUT ME
 
-I'm a generalist game developer, studying a Game Design MFA at NYU's game center. Dedicated, diligent, and excited, I am ready to tackle any challenges that come with making games. As a generalist game designer, I have proficiency with various aspects needed to make a game, as I can work on programming, art, and producing. I enjoy Systems and Quest design, as I love working with spreadsheets and figuring out how to properly make systems work. 
+I'm a  game developer, studying a Game Design MFA at NYU's game center. Dedicated, diligent, and excited, I am ready to tackle any challenges that come with making games. As a generalist game designer, I have proficiency with various aspects needed to make a game, as I can work on programming, art, and producing. I enjoy Systems and Quest design, as I love working with spreadsheets and figuring out how to properly make systems work. 
 - ⭐ I'm passionate about video games, tabletop games, and cooking!
 - :video_game: I have experience with Unreal Engine, Unity, and Godot. With Unreal Engine being my preferred engine. 
 - 🖥️ My favorite languages are C# and Java. With experience in C++ and Godot Script.
